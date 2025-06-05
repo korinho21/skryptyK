@@ -9,7 +9,7 @@ Zadanie 1 kółko i krzyżyk (bash)
 
 
 
-Zadanie 2 RunnerPJS
+Zadanie 2 Runner w PJS
 3.0 - jeden poziom z przeszkodami oraz dziurami w które można wpaść i zginąć ✅
 3.5 - opcja zbierania punktów ✅
 4.0 - zabijalni przeciwnicy i 3 życia ✅
