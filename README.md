@@ -50,4 +50,8 @@ zadanie 3 crawler w ruby
 
 
 4.5 zapisuje linki do produktów ✅
+
+
 5.0 zapisuje dane do bazy danych sqlite ✅
+
+
