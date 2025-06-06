@@ -15,3 +15,11 @@ Zadanie 2 Runner w PJS
 4.0 - zabijalni przeciwnicy i 3 życia ✅
 4.5 - ładowanie poziomów z plików ✅
 5.0 - generator poziomów ✅
+
+
+zadanie 3 crawler w ruby
+3.0 pobiera podstawowe dane o produktach z wybranej przeze mnie kategorii ✅
+3.5 pobiera dane według słów kluczowych ✅
+4.0 rozszerza dane o produktach o dane szczegółowe widoczne tylko na podstronie o produkcie ✅
+4.5 zapisuje linki do produktów ✅
+5.0 zapisuje dane do bazy danych sqlite ✅
