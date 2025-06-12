@@ -17,6 +17,8 @@ Zadanie 1 kółko i krzyżyk (bash)
 film demo: https://youtu.be/tIudMi5d__o
 
 
+folder: https://github.com/korinho21/skryptyK/tree/7581c33d2987e2b5965e2f9835cc6b193eeac071/ttt
+
 
 
 Zadanie 2 Runner w PJS
@@ -43,6 +45,9 @@ film demo1: https://youtu.be/XNiERcV6WEg
 film demo2: https://youtu.be/_vKVKL8RHms
 
 
+folder: https://github.com/korinho21/skryptyK/tree/7581c33d2987e2b5965e2f9835cc6b193eeac071/MarioPJS
+
+
 
 
 zadanie 3 crawler w ruby
@@ -66,7 +71,7 @@ zadanie 3 crawler w ruby
 
 film demo: https://youtu.be/bIdvK20iKSo
 
-CrawlerRuby
+folder: https://github.com/korinho21/skryptyK/tree/7581c33d2987e2b5965e2f9835cc6b193eeac071/CrawlerRuby
 
 
 
@@ -85,6 +90,8 @@ Zadanie 4 Tetris Lua
 film demo: https://youtu.be/9oVkameQU6o
 
 
+folder: https://github.com/korinho21/skryptyK/tree/7581c33d2987e2b5965e2f9835cc6b193eeac071/TetrisL
+
 
 zadanie 5 chatbot discord python
 
@@ -100,6 +107,9 @@ zadanie 5 chatbot discord python
 
 
 film demo: https://youtu.be/kI_2O2mXDXk
+
+
+folder: https://github.com/korinho21/skryptyK/tree/7581c33d2987e2b5965e2f9835cc6b193eeac071/chatbot
 
 
 
