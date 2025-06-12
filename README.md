@@ -55,3 +55,29 @@ zadanie 3 crawler w ruby
 5.0 zapisuje dane do bazy danych sqlite ✅
 
 
+
+Zadanie 4 Tetris Lua
+
+3.0 podstawowa wersja,obsługa klawiaturą, min 4 rodzaje bloków ✅
+
+3.5 zapis i odczyt gry ✅
+
+4.0 efejty dźwiękowe przy akcjach ✅
+
+4.5 animacja przy czyszczeniu linii ✅
+
+5.0 wersja mobilna ❌
+
+zadanie 5 chatbot discord python
+
+3.0 min 3 ścieżki turnieju ✅
+
+3.5 bot wyświetla listę dostępnych rozgrywek ✅
+
+4.0 bot dodaje zawodnika do szybkiego podglądu ✅
+
+4.5 bot potwierdza dodanie zawodnika wraz ze wszystkimi jego danymi ✅
+
+5.0 bot wyświetla wszystkie drużyny, terminarz turnieju oraz wszystkich zawodników biorących w nich udział ✅
+
+
