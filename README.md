@@ -62,7 +62,11 @@ zadanie 3 crawler w ruby
 
 5.0 zapisuje dane do bazy danych sqlite ✅
 
+
+
 film demo: https://youtu.be/bIdvK20iKSo
+
+CrawlerRuby
 
 
 
