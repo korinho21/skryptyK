@@ -14,6 +14,8 @@ Zadanie 1 kółko i krzyżyk (bash)
 5.0 - pozwala na grę z komputerem ✅
 
 
+film demo: https://youtu.be/tIudMi5d__o
+
 
 
 
@@ -35,6 +37,12 @@ Zadanie 2 Runner w PJS
 5.0 - generator poziomów ✅
 
 
+film demo1: https://youtu.be/XNiERcV6WEg
+
+
+film demo2: https://youtu.be/_vKVKL8RHms
+
+
 
 
 zadanie 3 crawler w ruby
@@ -54,6 +62,8 @@ zadanie 3 crawler w ruby
 
 5.0 zapisuje dane do bazy danych sqlite ✅
 
+film demo: https://youtu.be/bIdvK20iKSo
+
 
 
 Zadanie 4 Tetris Lua
@@ -68,6 +78,10 @@ Zadanie 4 Tetris Lua
 
 5.0 wersja mobilna ❌
 
+film demo: https://youtu.be/9oVkameQU6o
+
+
+
 zadanie 5 chatbot discord python
 
 3.0 min 3 ścieżki turnieju ✅
@@ -81,3 +95,13 @@ zadanie 5 chatbot discord python
 5.0 bot wyświetla wszystkie drużyny, terminarz turnieju oraz wszystkich zawodników biorących w nich udział ✅
 
 
+film demo: https://youtu.be/kI_2O2mXDXk
+
+
+
+
+
+
+
+
+.
